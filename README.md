@@ -4,6 +4,6 @@
 
 👀 I’m looking for a career in Software Development
 
-🪄 Fun-fact: I used to work as a parade perfomer at Disneyland
+🪄 Fun-fact: I used to work as a parade perfomer at Disneyland Paris!
 
 📫 How to reach me: felicitycarleton@hotmail.com

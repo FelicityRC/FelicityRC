@@ -8,4 +8,4 @@
 
 🪄 Fun-fact: I used to work as a parade perfomer at Disneyland Paris!
 
-📫 How to reach me: felicitycarleton@hotmail.com
+📫 How to reach me: felicitycarleton@hotmail.com  /  https://www.linkedin.com/in/felicityrc/

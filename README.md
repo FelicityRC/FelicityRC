@@ -1,8 +1,8 @@
 👋 Hello, I’m Felicity!
 
-🌱 I’m currently learning Javascript at Northcoders in Manchester
+🌱 I’m currently developing my JavaScript and CSS skills.
 
-👀 I’m looking for a career in Software Development
+👀 I’m looking for a career in Software Development.
 
 🪄 Fun-fact: I used to work as a parade perfomer at Disneyland Paris!
 

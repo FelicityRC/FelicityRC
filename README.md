@@ -1,11 +1,13 @@
 👋 Hello, I’m Felicity!
 
-🌱 I’m currently developing my JavaScript and CSS skills.
+🎓 I recently graduated as a Junior Full Stack Software Engineer from Northcoders in Manchester.
 
-🎓 Recently, I graduated from Northcoders in Manchester.
+🌱 I have experience in the following languages and technologies:
 
-👀 I’m looking for a career in Software Development.
+    JavaScript | PSQL | HTML | CSS | React | Node.js | Express | Jest | Agile Methodologies
 
 🪄 Fun-fact: I used to work as a parade perfomer at Disneyland Paris!
 
-📫 How to reach me: felicitycarleton@hotmail.com  /  https://www.linkedin.com/in/felicityrc/
+📫 If you would like to reach out and connect with me:
+- [Email](felicitycarleton@hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/felicityrc/)
